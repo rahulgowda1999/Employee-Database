@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/rahulgowda/Downloads/Angular-10-Spring-Boot-CRUD-Full-Stack-App-master/springboot-backend/.metadata/.plugins/org.eclipse.jdt.core
+1511608432.index
